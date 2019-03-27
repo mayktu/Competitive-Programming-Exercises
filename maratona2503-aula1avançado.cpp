@@ -2,7 +2,7 @@
 
 #include<iostream>
 #include<vector>
-#include<algorithm>     	//Ordenar vector
+#include<algorithm>     	//Ordenar vetor,etc
 #include<stack>         	//Pilha
 #include<queue>         	//fila
 #include<map>           	//Map
